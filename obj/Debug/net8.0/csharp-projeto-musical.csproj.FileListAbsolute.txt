@@ -1,0 +1,28 @@
+/home/tm/Área de trabalho/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical
+/home/tm/Área de trabalho/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.deps.json
+/home/tm/Área de trabalho/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.runtimeconfig.json
+/home/tm/Área de trabalho/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.dll
+/home/tm/Área de trabalho/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.pdb
+/home/tm/Área de trabalho/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.GeneratedMSBuildEditorConfig.editorconfig
+/home/tm/Área de trabalho/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.AssemblyInfoInputs.cache
+/home/tm/Área de trabalho/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.AssemblyInfo.cs
+/home/tm/Área de trabalho/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.csproj.CoreCompileInputs.cache
+/home/tm/Área de trabalho/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.dll
+/home/tm/Área de trabalho/csharp-projeto-musical/obj/Debug/net8.0/refint/csharp-projeto-musical.dll
+/home/tm/Área de trabalho/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.pdb
+/home/tm/Área de trabalho/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.genruntimeconfig.cache
+/home/tm/Área de trabalho/csharp-projeto-musical/obj/Debug/net8.0/ref/csharp-projeto-musical.dll
+/var/www/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical
+/var/www/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.deps.json
+/var/www/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.runtimeconfig.json
+/var/www/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.dll
+/var/www/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.pdb
+/var/www/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.AssemblyInfoInputs.cache
+/var/www/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.AssemblyInfo.cs
+/var/www/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.csproj.CoreCompileInputs.cache
+/var/www/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.dll
+/var/www/csharp-projeto-musical/obj/Debug/net8.0/refint/csharp-projeto-musical.dll
+/var/www/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.pdb
+/var/www/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.genruntimeconfig.cache
+/var/www/csharp-projeto-musical/obj/Debug/net8.0/ref/csharp-projeto-musical.dll
