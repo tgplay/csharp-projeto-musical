@@ -26,3 +26,4 @@
 /var/www/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.pdb
 /var/www/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.genruntimeconfig.cache
 /var/www/csharp-projeto-musical/obj/Debug/net8.0/ref/csharp-projeto-musical.dll
+/var/www/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.sourcelink.json
